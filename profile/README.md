@@ -1,6 +1,6 @@
 <p align="center">
 <picture>
-  <img alt="Logo" src="https://gist.githubusercontent.com/OKUA1/55e2fb9dd55673ec05281e0247de6202/raw/048d988f6a1eb439b6a21ccc5dc507fee521c129/beastbyte.svg" height = "220">
+  <img alt="Logo" src="https://gist.githubusercontent.com/OKUA1/55e2fb9dd55673ec05281e0247de6202/raw/048d988f6a1eb439b6a21ccc5dc507fee521c129/beastbyte.svg" height = "250">
 </picture>
 </p>
 
