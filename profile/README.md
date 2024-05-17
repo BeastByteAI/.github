@@ -8,8 +8,26 @@
 
 #### 🔭 Our current projects are:
 
-<a href="https://github.com/iryna-kondr/scikit-llm"><img src="https://gist.githubusercontent.com/OKUA1/6264a95a8abd225c74411a2b707b0242/raw/029694673765a3af36d541925a67214e677155e5/skllm_light.svg"/></a> <br>
-<a href="https://github.com/BeastByteAI/agent_dingo"><img src="https://gist.githubusercontent.com/OKUA1/6264a95a8abd225c74411a2b707b0242/raw/1b231aab718fcab624faa33d9c10d0eee17ca160/dingo_light.svg"/></a> <br>
-<a href="https://github.com/BeastByteAI/falcon"><img src="https://raw.githubusercontent.com/gist/OKUA1/6264a95a8abd225c74411a2b707b0242/raw/3cedb53538cb04656cd9d7d07e697e726896ce9f/falcon_light.svg"/></a> <br>
+<a href="https://github.com/iryna-kondr/scikit-llm">
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/ce2167df8e441ce34a9fbc8578b86543/raw/f740c391ec37eaf2f80d5b46f1fa2a989dd45932/skll_h_dark.svg" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/ce2167df8e441ce34a9fbc8578b86543/raw/f740c391ec37eaf2f80d5b46f1fa2a989dd45932/skllm_h_light.svg">
+  <img alt="Logo" src="https://gist.githubusercontent.com/OKUA1/ce2167df8e441ce34a9fbc8578b86543/raw/f740c391ec37eaf2f80d5b46f1fa2a989dd45932/skll_h_dark.svg" height = "65">
+</picture>
+</a> <br><br>
+<a href="https://github.com/OKUA1/agent_dingo">
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/ce2167df8e441ce34a9fbc8578b86543/raw/f740c391ec37eaf2f80d5b46f1fa2a989dd45932/dingo_h_dark.svg" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/ce2167df8e441ce34a9fbc8578b86543/raw/f740c391ec37eaf2f80d5b46f1fa2a989dd45932/ding_h_light.svg">
+  <img alt="Logo" src="https://gist.githubusercontent.com/OKUA1/ce2167df8e441ce34a9fbc8578b86543/raw/f740c391ec37eaf2f80d5b46f1fa2a989dd45932/dingo_h_dark.svg" height = "65">
+</picture>
+</a> <br><br>
+<a href="https://github.com/OKUA1/falcon">
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/ce2167df8e441ce34a9fbc8578b86543/raw/f740c391ec37eaf2f80d5b46f1fa2a989dd45932/falcon_h_dark.svg" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/ce2167df8e441ce34a9fbc8578b86543/raw/f740c391ec37eaf2f80d5b46f1fa2a989dd45932/falcon_h_light.svg">
+  <img alt="Logo" src="https://gist.githubusercontent.com/OKUA1/ce2167df8e441ce34a9fbc8578b86543/raw/f740c391ec37eaf2f80d5b46f1fa2a989dd45932/dingo_h_dark.svg" height = "65">
+</picture>
+</a> <br><br>
 
-🤝 Support our projects by giving a star ⭐
+🤝 Support our projects with a star ⭐
